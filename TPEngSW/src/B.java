@@ -21,12 +21,16 @@ public class B {
     }
 
     //Métodos M
-    public void BA1(){
-        System.out.println("Rodando metodo BA1");
+    public void MB1(){
+        System.out.println("MB1");
     }
 
-    public void BA2(){
-        System.out.println("Rodando metodo BA2");
+    public void MB2(){
+        System.out.println("MB2");
+    }
+
+    public void MB3(){
+        System.out.println("MB3");
     }
 
 }
